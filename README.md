@@ -1,4 +1,5 @@
-本館への入館はURLよりできます。
+入館する
+https://kiro0712.wixstudio.io/tlhall
 
 # TLHall's CSS
 本館で使用しているCSSを掲載。
